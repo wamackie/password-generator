@@ -15,6 +15,9 @@ password-generator is linked to the index.html file. It will run when opened in 
 ## Usage
 To begin click "Generate Password". A window alert will pop up asking the user to choose between 8 and 128 characters length. Then choose "ok" or "cancel" to each of the 4 windows asking if numbers, lower case letters, upper case letters, or special characters will be used. Upon completion a randomly generated password meeting the chosen requirements will appear.
 
+## Website
+https://wamackie.github.io/password-generator/
+
 ![screenshot](assets/images/screenshot.png)
 
 ## Credits
